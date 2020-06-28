@@ -1,8 +1,8 @@
-# Tic-Tik-Toe-Game
-This is simple tic tik toe game developed using Python
+# Tic-Tac-Toe-Game
+This is simple tic tac toe game developed using Python
 
 ## About Repository
-This repository mainly contains the python code to develop tic tik toe game.<br> 
+This repository mainly contains the python code to develop tic tac toe game.<br> 
 It uses [tkinter](https://docs.python.org/3/library/tkinter.html) package which is the standard Python interface to the Tk GUI toolkit.
 
 ## Snippets
