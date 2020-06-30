@@ -1,0 +1,14 @@
+python == 3.8.1
+djang0==3.0
+pytz==2020.1
+regex==2020.5.14
+requests==2.23.0
+scikit-learn==0.23.1
+scipy==1.4.1
+six==1.15.0
+sklearn==0.0
+soupsieve==2.0.1
+threadpoolctl==2.0.0
+tqdm==4.46.0
+urllib3==1.25.9
+Werkzeug==1.0.1
